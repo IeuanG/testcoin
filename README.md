@@ -1,3 +1,3 @@
-FooCoin (FOO)
+TestCoin (TEST)
 
 Blah, blah, blah.
